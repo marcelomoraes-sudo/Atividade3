@@ -9,10 +9,10 @@
 
 ## Descrição
 Este projeto contém a implementação dos algoritmos **Kruskal**, **Prim** e **Dijkstra** em Python, conforme as especificações da atividade. 
-O objetivo é encontrar  o desempenho de ambos em vetores de diferentes tamanhos (1.000 a 100.000 elementos) contendo números inteiros positivos e negativos.
 
-Foi feita a inclusão dos algoritmos **Merge Sort** e **Quick Sort** em Python, conforme as especificações da atividade para a entrega de 27/04.
-O objetivo consiste em encontrar um subconjunto 𝑇 ⊂ 𝐸, onde 𝑇 é acíclico, toque em todos os vértices e a soma de suas arestas seja minimizada.
+**1. Kruskal** e **Prim:** Implementar a solução gulosa dos algoritmos de Kruskal e PRIM para o problema da Árvore de Espalhamento Mínimo.
+
+**2. Dijkstra:** Implementa a solução gulosa de Dijkstra para o problema do Caminho Mínimo. 
 
 ## Como Executar
 1. **Exemplo: Para rodar os três algorítmos para o arquivo dij10.txt:**
