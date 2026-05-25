@@ -1,7 +1,10 @@
 # Atividade 3 - UFPB
 **Disciplina:** Estrutura de Dados e Complexidade de Algoritmos  
-**Entrega 01:** 21/05/2026
-**Entrega 02:** 28/05/2026
+
+**Entrega início:** 21/05/2026
+
+**Entrega fim:** 28/05/2026
+
 **Discente:** Marcelo Moraes
 
 ## Descrição
